@@ -1,0 +1,15 @@
+# requirements.txt
+# Core for transcript fetching, subtitle parsing, progress
+youtube-transcript-api
+yt-dlp
+webvtt-py
+pysrt
+tqdm
+requests
+
+# --- Speech-to-Text backends (install one, some, or all) ---
+# Local Whisper (OpenAI's original implementation; heavy - installs PyTorch)
+openai-whisper
+
+# Faster-Whisper (lighter, faster; good default for most users)
+faster-whisper
