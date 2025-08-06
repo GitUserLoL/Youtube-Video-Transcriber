@@ -1,2 +1,8 @@
 .venv
-__pychache__/
+__pychache__
+bibleschool_notes.py
+Random.txt
+RandomReal.txt
+HuggingFaceAPI.txt
+commentaries
+transcripts
